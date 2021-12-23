@@ -6,20 +6,22 @@
 
 - 폴더와 파일명은 영문으로 작성한다.
 - 더 많은 공유를 원하는 기록은 [블로그](http://s-log.netlify.app/)에 포스팅한다.
-- reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용한다.
+- reference를 명시한다.
 
 ## 분류
 
-### Etc
+> ### [JavaScript](https://github.com/usgnusmig/TIL/tree/main/JavaScript)
 
-### [JavaScript] (https://github.com/usgnusmig/TIL/tree/main/JavaScript)
+- [JavaScript](https://github.com/usgnusmig/TIL/blob/main/JavaScript/JavaScript.md)
 
--[JavaScript] (https://github.com/usgnusmig/TIL/blob/main/JavaScript/JavaScript.md)
+> ### [TypeScript](https://github.com/usgnusmig/TIL/tree/main/TypeScript)
 
-### [TypeScript] (https://github.com/usgnusmig/TIL/tree/main/TypeScript)
+- [TypeScript를 사용하는 이유](https://github.com/usgnusmig/TIL/blob/main/TypeScript/WhyTypeScript.md)
 
-- [WhyTypeScript] (https://github.com/usgnusmig/TIL/blob/main/TypeScript/WhyTypeScript.md)
+- [TypeScript 작업환경 구성](https://github.com/usgnusmig/TIL/blob/main/TypeScript/TypeScriptSetUp.md)
 
-### [React] (https://github.com/usgnusmig/TIL/tree/main/React)
+> ### [React](https://github.com/usgnusmig/TIL/tree/main/React)
 
-- [React] (https://github.com/usgnusmig/TIL/blob/main/React/React.md)
+- [React](https://github.com/usgnusmig/TIL/blob/main/React/React.md)
+
+> ### Etc

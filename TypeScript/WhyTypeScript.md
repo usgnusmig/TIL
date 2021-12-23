@@ -1,3 +1,5 @@
+# [TypeScript 가이드북](https://yamoo9.gitbook.io/typescript/)을 읽고 정리한 내용입니다.
+
 # TypeScript란?
 
 TypeScript는 JavaScript를 포함하는 Superset으로 브라우저, 운영체제에 상관없이 이용 가능한 오픈소스이고, JavaScript로 컴파일 되는 트랜스파일러(컴파일러) 이다.
@@ -90,11 +92,3 @@ TypeScript 파일은 웹 브라우저에서 바로 해석될 수 없어서 브�
 - 플레이그라운드
   - 온라인 상에서 TypeScript를 테스트 해보려면 플레이 그라운드를 통해 TypeScript 코드가 JavaScript 코드로 변환되는 결과를 실시간으로 확인할 수 있다.
     > [플레이그라운드](https://www.typescriptlang.org/play?#code/PTAEHUFMBsGMHsC2lQBd5oBYoCoE8AHSAZVgCcBLA1UABWgEM8BzM+AVwDsATAGiwoBnUENANQAd0gAjQRVSQAUCEmYKsTKGYUAbpGF4OY0BoadYKdJMoL+gzAzIoz3UNEiPOofEVKVqAHSKymAAmkYI7NCuqGqcANag8ABmIjQUXrFOKBJMggBcISGgoAC0oACCbvCwDKgU8JkY7p7ehCTkVDQS2E6gnPCxGcwmZqDSTgzxxWWVoASMFmgYkAAeRJTInN3ymj4d-jSCeNsMq-wuoPaOltigAKoASgAywhK7SbGQZIIz5VWCFzSeCrZagNYbChbHaxUDcCjJZLfSDbExIAgUdxkUBIursJzCFJtXydajBBCcQQ0MwAUVWDEQC0gADVHBQGNJ3KAALygABEAAkYNAMOB4GRonzFBTBPB3AERcwABS0+mM9ysygc9wASmCKhwzQ8ZC8iHFzmB7BoXzcZmY7AYzEg-Fg0HUiQ58D0Ii8fLpDKZgj5SWxfPADlQAHJhAA5SASPlBFQAeS+ZHegmdWkgR1QjgUrmkeFATjNOmGWH0KAQiGhwkuNok4uiIgMHGxCyYrA4PCCJSAA)
-
-##### 아래 문서를 읽고 정리한 내용입니다.
-
-> TypeScript-Handbook 한글 문서
-> https://typescript-kr.github.io/
->
-> TypeScript 가이드북
-> https://yamoo9.gitbook.io/typescript/
