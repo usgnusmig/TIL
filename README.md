@@ -12,8 +12,14 @@
 
 ### Etc
 
-### JavaScript
+### [JavaScript] (https://github.com/usgnusmig/TIL/tree/main/JavaScript)
 
-### TypeScript
+-[JavaScript] (https://github.com/usgnusmig/TIL/blob/main/JavaScript/JavaScript.md)
 
-### React
+### [TypeScript] (https://github.com/usgnusmig/TIL/tree/main/TypeScript)
+
+- [WhyTypeScript] (https://github.com/usgnusmig/TIL/blob/main/TypeScript/WhyTypeScript.md)
+
+### [React] (https://github.com/usgnusmig/TIL/tree/main/React)
+
+- [React] (https://github.com/usgnusmig/TIL/blob/main/React/React.md)
