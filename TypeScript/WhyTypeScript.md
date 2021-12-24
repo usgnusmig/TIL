@@ -1,10 +1,24 @@
-# [TypeScript 가이드북](https://yamoo9.gitbook.io/typescript/)을 읽고 정리한 내용입니다.
+# [TypeScript 가이드북](https://yamoo9.gitbook.io/typescript/) 을 공부하고 정리한 포스팅입니다.
+
+# TypeScript를 사용하는 이유
 
 # TypeScript란?
 
 TypeScript는 JavaScript를 포함하는 Superset으로 브라우저, 운영체제에 상관없이 이용 가능한 오픈소스이고, JavaScript로 컴파일 되는 트랜스파일러(컴파일러) 이다.
 
-# TypeScript를 사용하는 이유
+---
+
+## 목차
+
+- [JavaScript vs TypeScript](#javascript-vs-typescript)
+
+- [JavaScript Superset](#javascript-superset)
+
+- [트랜스 파일러](#트랜스-파일러)
+
+- [참고 기능](#참고-기능)
+
+---
 
 ## JavaScript vs TypeScript
 
