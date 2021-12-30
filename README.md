@@ -19,7 +19,7 @@
 
 > ### [React](https://github.com/usgnusmig/TIL/tree/main/React)
 
-- [React](https://github.com/usgnusmig/TIL/blob/main/React/React.md)
+- [ReactHooks](https://github.com/usgnusmig/TIL/blob/main/React/ReactHooks.md)
 
 > ### [CSS]((https://github.com/usgnusmig/TIL/tree/main/CSS)
 
