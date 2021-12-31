@@ -8,6 +8,8 @@
 
 - [props로 값 전달받기](#props로-값-전달받기)
 
+- [animation 사용하기](#animation-사용하기)
+
 ---
 
 ## Global Style 지정하기
@@ -85,6 +87,42 @@ const App = () => {
 
 ---
 
+## animation 사용하기
+
+animation을 사용하려면 `props`를 이용하면 된다.
+
+```js
+import React from "react";
+import styled, { keyframes } from "styled-components";
+
+const BoxFade = keyframes`
+from {
+    opacity: 0;
+    transform: translateY(3rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+`;
+
+const BoxStyle = styled.div`
+  padding: 1rem;
+  max-width: 50rem;
+  width: 90%;
+  margin: 2rem auto;
+  background-color: #fafafa;
+  border-radius: 15px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  animation: ${BoxFade} 1s ease-out forwards;
+`;
+```
+
+---
+
 ## 참고 링크
 
-[너드팩토리블로그](https://blog.nerdfactory.ai/2019/10/25/react-styled-components.html)
+[너드팩토리님 블로그](https://blog.nerdfactory.ai/2019/10/25/react-styled-components.html)
+
+[Seungho Lee님 블로그](https://medium.com/@shlee1353)
