@@ -21,8 +21,8 @@
 
 - [ReactHooks](https://github.com/usgnusmig/TIL/blob/main/React/ReactHooks.md)
 
-> ### [CSS]((https://github.com/usgnusmig/TIL/tree/main/CSS)
+- [StyledConponents](https://github.com/usgnusmig/TIL/blob/main/React/StyledComponents.md)
 
-- [StyledConponents](https://github.com/usgnusmig/TIL/blob/main/CSS/StyledComponents.md)
+> ### [CSS](https://github.com/usgnusmig/TIL/tree/main/CSS)
 
 > ### Etc
