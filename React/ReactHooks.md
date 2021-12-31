@@ -2,7 +2,8 @@
 
 ## Reference
 
-> [벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/) > [우당탕탕 기술블로그](https://velog.io/@jminkyoung)
+> [벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)
+> [우당탕탕 기술블로그](https://velog.io/@jminkyoung)
 
 ## 목차
 
