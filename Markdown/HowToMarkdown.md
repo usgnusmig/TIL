@@ -11,7 +11,7 @@
 
 <img src="./git.png" width="200px" height="200px" title="GitLogo"/>
 
-<img src="./git.png" width="100px" height="50px" title="GitLogo"></img>
+<img src="./git.png" width="100px" height="100px" title="GitLogo"></img>
 ```
 
 ![GitLogo](../assets/git.png)
