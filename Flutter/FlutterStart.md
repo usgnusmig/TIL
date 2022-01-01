@@ -55,3 +55,23 @@ MaterialApp(
 > 우리가 눈으로 보는 절대적인 수치다.
 >
 > 1cm는 38LP 이고 `width : 50`이면 1.2cm 정도 된다.
+
+> `Material()`
+> 구글에서 제공하는 Meterial 테마를 사용하는 구글 느낌위젯
+
+> `Cupertino~~()`
+> 아이폰 느낌 위젯
+> [링크](https://docs.flutter.dev/development/ui/widgets/cupertino)
+
+> 커스텀 위젯을 만들어서 사용할 땐 `Material` 위젯을 사용하면 된다.
+
+```dart
+home: Center(
+          child: Scaffold(
+            appBar: AppBar(),
+            body: Container(),
+            bottomNavigationBar: BottomAppBar(),
+          )
+```
+
+`Scaffold` 화면을 상,중,하로 나눠주는 위젯
