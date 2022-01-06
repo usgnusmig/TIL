@@ -11,12 +11,6 @@
 
 - [JavaScript](https://github.com/usgnusmig/TIL/blob/main/JavaScript/JavaScript.md)
 
-> ### [TypeScript](https://github.com/usgnusmig/TIL/tree/main/TypeScript)
-
-- [TypeScript를 사용하는 이유](https://github.com/usgnusmig/TIL/blob/main/TypeScript/WhyTypeScript.md)
-
-- [TypeScript 작업환경 구성](https://github.com/usgnusmig/TIL/blob/main/TypeScript/TypeScriptSetUp.md)
-
 > ### [React](https://github.com/usgnusmig/TIL/tree/main/React)
 
 - [ReactHooks](https://github.com/usgnusmig/TIL/blob/main/React/ReactHooks.md)
@@ -27,6 +21,13 @@
 
 - [마크다운 사용방법](https://github.com/usgnusmig/TIL/tree/main/Markdown/HowToMarkdown.md)
 
-> ### [CSS](https://github.com/usgnusmig/TIL/tree/main/CSS)
-
 > ### Etc
+
+<!-- > ### [CSS](https://github.com/usgnusmig/TIL/tree/main/CSS) -->
+
+<!--
+> ### [TypeScript](https://github.com/usgnusmig/TIL/tree/main/TypeScript)
+
+- [TypeScript를 사용하는 이유](https://github.com/usgnusmig/TIL/blob/main/TypeScript/WhyTypeScript.md)
+
+- [TypeScript 작업환경 구성](https://github.com/usgnusmig/TIL/blob/main/TypeScript/TypeScriptSetUp.md) -->
