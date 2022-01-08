@@ -26,3 +26,33 @@ import axios from "axios";
 ```js
 axios.get(url, [, config]);
 ```
+
+#### POST
+
+> 새로운 리소스를 생성(Craete)한다.
+
+```js
+axios.post(
+  "url 주소",
+  {
+    data객체,
+  },
+  [, config]
+);
+```
+
+#### DELETE
+
+> 데이터를 제거한다.
+
+```js
+axios.delete(url, [, config]);
+```
+
+#### PUT
+
+> 데이터를 갱신 수정한다.
+
+```js
+axios.put(url, [, data[, config]])
+```

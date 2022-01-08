@@ -2,7 +2,7 @@
 
 새로운 프로젝트를 생성하기 위해 `npx create-react-app`를 실행하니 오류가 발생했다.
 
-![issue](./craIssue.png)
+![issue](../assets/CRAIssueCraIssue.png)
 
 에러 메세지에서 CRA를 제거하라고 하니 재설치 후 다시 실행해보자
 
@@ -12,7 +12,7 @@
 
 예상과 다르게 새로운 에러가 발생한다.
 
-![socketError](./socket.png)
+![socketError](../assets/CRAIssueSocket.png)
 
 찾아보니 인터넷 연결의 문제라고 한다.
 
@@ -20,7 +20,7 @@
 
 터미널 루트 디렉토리에서 `npm config set fetch-retry-maxtimeout 60000 -g` 명령 실행 후 다시 CRA를 실행해보자.
 
-![good](./good.png)
+![good](../assets/CRAIssueGood.png)
 
 이제 정상적으로 작동한다.
 
