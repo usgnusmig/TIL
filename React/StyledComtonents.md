@@ -1,6 +1,7 @@
 # StyledComponents 참고사항
 
-## 목차
+<details>
+<summary>목차</summary>
 
 - [Global Style 지정하기](#Global-Style-지정하기)
 
@@ -9,6 +10,8 @@
 - [props로 값 전달받기](#props로-값-전달받기)
 
 - [animation 사용하기](#animation-사용하기)
+
+</details>
 
 ---
 

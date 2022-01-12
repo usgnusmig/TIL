@@ -3,7 +3,10 @@
 ## Reference
 
 > [벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)
+>
 > [우당탕탕 기술블로그](https://velog.io/@jminkyoung)
+
+---
 
 `useContext`는 React에 존재하는 `Context`를 편하게 사용할 수 있도록 해준다.
 
