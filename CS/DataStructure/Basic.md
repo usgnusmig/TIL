@@ -228,6 +228,24 @@ String[] name = {"Stacy", "Tracey", "Dorothy"};
 
 ---
 
+## Binary Tree
+
+트리의 차수가 2 이하인 트리
+
+- 비선형 자료구조
+- 자식이 최대 2개이기 때문에 자식을 왼쪽 자식과 오른쪽 자식으로 구분한다
+- 높이가 `N`인 이진 트리의 최대 노드 개수는 2의`N`승 - 1 개 이다.
+
+**Binary Tree의 종류**
+
+- 정 이진 트리(Full Binary Tree) : 모든 노드의 차수가 0 또는 2인 이진트리
+- 포화 이진 트리(Perfect Binary Tree) : 정 이진 트리에서 모든 외부 노드(`leaf node`)의 깊이가 같은 이진트리
+  - 높이가 `H`인 포화 이진 트리의 노드 개수는 2의 `H`승 -1 개 이다.
+  - 반대로 노드의 개수가 `H`개인 포화 이진 트리의 높이는 log2(N+1)이다
+  - 깊이가 `D`인 포화 이진 트리의 외부 노드(`leaf node`)개수는 2의`D`승 개 이다
+- 완전 이진 트리(Complete Binary Tree) : 마지막 레벨은 노드가 왼쪽에 몰려있고, 마지막 레벨을 제외하면 포화 이진 트리 구조를 띄고 있는 이진 트리
+- 사향 이진트리(Skewed Binary Tree) : Linked List처럼 한줄로 연결되어 있는 이진 트리
+
 ## 복잡도
 
 **시간복잡도(Time Complexity)와 공간복잡도(Space Complexity)**

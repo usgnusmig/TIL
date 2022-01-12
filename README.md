@@ -11,6 +11,7 @@
 - [JavaScript](#javascript)
 - [React](#React)
 - [Markdown](#markdown)
+- [CS](#CS)
 - [Issue](#issue)
 - [ETC](#etc)
 </details>
