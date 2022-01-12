@@ -5,10 +5,8 @@
 - 더 많은 공유를 원하는 기록은 [블로그](http://s-log.netlify.app/)에 포스팅.
 - reference를 명시한다.
 
----
-
 <details>
-<summary>Contents Table</summary>
+<summary>목차</summary>
 
 - [JavaScript](#javascript)
 - [React](#React)
@@ -31,11 +29,15 @@
 >   - [useRef](https://github.com/usgnusmig/TIL/blob/main/React/Hooks/useRef)
 > - [Axios](https://github.com/usgnusmig/TIL/blob/main/React/Axios.md)
 >
-> - [StyledConponents](https://github.com/usgnusmig/TIL/blob/main/React/StyledComponents.md)
+> - [Styled Conponents](https://github.com/usgnusmig/TIL/blob/main/React/StyledComponents.md)
 >
 > ## [Markdown](https://github.com/usgnusmig/TIL/tree/main/Markdown)
 >
 > - [마크다운 사용방법](https://github.com/usgnusmig/TIL/tree/main/Markdown/HowToMarkdown.md)
+>
+> ## [CS](https://github.com/usgnusmig/TIL/tree/main/CS)
+>
+> - [기본 자료구조](https://github.com/usgnusmig/TIL/tree/main/CS/DataStructure/Basic.md)
 >
 > ## [Issue](https://github.com/usgnusmig/TIL/tree/main/Issue)
 >
