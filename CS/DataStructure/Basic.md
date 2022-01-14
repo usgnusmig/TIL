@@ -246,6 +246,16 @@ String[] name = {"Stacy", "Tracey", "Dorothy"};
 - 완전 이진 트리(Complete Binary Tree) : 마지막 레벨은 노드가 왼쪽에 몰려있고, 마지막 레벨을 제외하면 포화 이진 트리 구조를 띄고 있는 이진 트리
 - 사향 이진트리(Skewed Binary Tree) : Linked List처럼 한줄로 연결되어 있는 이진 트리
 
+---
+
+## Graph(그래프)
+
+현실 세계의 사물이나 개념간의 연결관계를 수학적 모델로 단순화하여 표현한것
+
+- V : 정점(Vertex / Node)
+- E : 간선(Edge / Link / Arc)
+- 그래프 G = (V, E)
+
 ## 복잡도
 
 **시간복잡도(Time Complexity)와 공간복잡도(Space Complexity)**
