@@ -1,8 +1,9 @@
 # [TypeScript 가이드북](https://yamoo9.gitbook.io/typescript/) 을 공부하고 정리한 포스팅입니다.
 
-# TypeScript 작업환경 구성/CLI
+# TypeScript 설치 작업환경 구성/CLI
 
-## 목차
+<details>
+<summary>목차</summary>
 
 - [TypeScript 환경 구성](#typescript-환경-구성)
 - [컴파일 설정](#컴파일-설정)
@@ -10,7 +11,7 @@
 - [Google TypeScript Style](#google-typescript-style)
 - [TSDX](#tsdx)
 
----
+## </details>
 
 ## TypeScript 환경 구성
 

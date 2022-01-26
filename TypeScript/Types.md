@@ -2,7 +2,8 @@
 
 # 타입의 종류
 
-# 목차
+<details>
+<summary>목차</summary>
 
 - [primitive 타입](#primitive-타입)
 
@@ -31,6 +32,8 @@
 - [사용자 정의 타입](#사용자-정의-타입)
 
 - [타입 어설션](#타입-어설션)
+
+</details>
 
 ---
 

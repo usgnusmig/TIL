@@ -1,19 +1,12 @@
 # StyledComponents 참고사항
 
-<details>
-<summary>목차</summary>
-
-- [Global Style 지정하기](#Global-Style-지정하기)
-
-- [동적 선택자 사용](#동적-선택자-사용)
-
-- [props로 값 전달받기](#props로-값-전달받기)
-
-- [animation 사용하기](#animation-사용하기)
-
-</details>
-
 ---
+
+## 패키지 설치
+
+```bash
+npm i styled-components
+```
 
 ## Global Style 지정하기
 
