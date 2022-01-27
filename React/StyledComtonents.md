@@ -8,6 +8,79 @@
 npm i styled-components
 ```
 
+---
+
+## Naming Convention
+
+1. 최상위 부모
+
+- `'컴포넌트명'Layout`으로 생성
+
+2. 최상위 부모 자식(바로 하위 요소)
+
+- `'컴포넌트명'Row` or `'컴포넌트명'Col`
+- `Row`나 `Col`이라는 실질적인 태그는 `div`,`section`태그등이 될 수 있다.
+- `Row`는 가로, `Col`은 세로
+  - 둘 다 실제 태그는 `div`여도 `flex-direction`으로 설정
+- 최상위 부모가 대분류 느낌이라면 이건 소분류 느낌
+
+3. 나머지 요소
+
+- 네이밍 예시
+
+  - `div`태그: `'컴포넌트명'Box` -`section`태그:
+    `컴포넌트명'Section` -`ul`태그:
+    `컴포넌트명'List` -`li`태그:
+    `컴포넌트명'Item` -`p`태그:
+    `컴포넌트명'Paragraph` -`span`태그:
+    `컴포넌트명'Span` or `'컴포넌트명'Text`
+
+  4. 지양할 사항
+
+  - `Styled'컴포넌트명'`: 앞에 Styled 사용을 지양할 것
+  - ` ~~Wrapper`: `div`태그 같은것에는 사용하지만 이 대신 `Box`라는 이름을 사용한다.
+
+  5. 예시 HTML
+
+  ```html
+  <div>
+    <!-- 1. Layout -->
+
+    <div>
+      <!-- 2. Row / Col (optional) -->
+      <div>
+        <!-- 3. Box -->
+        <ul>
+          <!-- 3. List  -->
+          <li>
+            <!-- 3. Item  -->
+            <span>Text</span>
+            <!-- 3. Text  -->
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div>
+      <!-- 2. Row / Col (optional) -->
+      <div>
+        <!-- 3. Box -->
+        <ul>
+          <!-- 3. List  -->
+          <li>
+            <!-- 3. Item  -->
+            <span>Text</span>
+            <!-- 3. Text  -->
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  </div>
+  ```
+
+---
+
 ## Global Style 지정하기
 
 별도 컴포넌트를 만들 필요 없이 `App.js` 에서 만들 수 있다.
@@ -122,3 +195,5 @@ const BoxStyle = styled.div`
 [너드팩토리님 블로그](https://blog.nerdfactory.ai/2019/10/25/react-styled-components.html)
 
 [Seungho Lee님 블로그](https://medium.com/@shlee1353)
+
+[Hi-Fi-Club](https://github.com/Hi-Fi-Club/FE/wiki/Styled-Components-%3A-Naming-Convention)
