@@ -28,17 +28,17 @@ npm i styled-components
 
 - 네이밍 예시
 
-  - `div`태그: `'컴포넌트명'Box` -`section`태그:
-    `컴포넌트명'Section` -`ul`태그:
-    `컴포넌트명'List` -`li`태그:
-    `컴포넌트명'Item` -`p`태그:
-    `컴포넌트명'Paragraph` -`span`태그:
-    `컴포넌트명'Span` or `'컴포넌트명'Text`
+  - `div`태그: `'컴포넌트명'Box`
+  - `section`태그: `컴포넌트명'Section`
+  - `ul`태그: `컴포넌트명'List`
+  - `li`태그: `컴포넌트명'Item`
+  - `p`태그: `컴포넌트명'Paragraph`
+  - `span`태그: `컴포넌트명'Span` or `'컴포넌트명'Text`
 
-  4. 지양할 사항
+4. 지양할 사항
 
-  - `Styled'컴포넌트명'`: 앞에 Styled 사용을 지양할 것
-  - ` ~~Wrapper`: `div`태그 같은것에는 사용하지만 이 대신 `Box`라는 이름을 사용한다.
+- `Styled'컴포넌트명'`: 앞에 Styled 사용을 지양할 것
+- ` ~~Wrapper`: `div`태그 같은것에는 사용하지만 이 대신 `Box`라는 이름을 사용한다.
 
   5. 예시 HTML
 
