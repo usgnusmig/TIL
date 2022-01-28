@@ -76,7 +76,6 @@ npm i styled-components
       </div>
     </div>
   </div>
-  </div>
   ```
 
 ---
@@ -189,6 +188,13 @@ const BoxStyle = styled.div`
 ```
 
 ---
+
+## VSCode Styled-components 자동완성
+
+CSS는 스타일링을 할 때 자동완성이 되서 편한데
+React에서 Styled-components을 사용하면 자동완성이 안되서 아쉽다
+이럴 땐 vscode extension중 `vscode-styled-components`를 설치하면 된다
+![](../assets/styled-components-extention.png)
 
 ## 참고 링크
 
